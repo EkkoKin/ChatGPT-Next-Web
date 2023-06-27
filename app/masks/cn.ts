@@ -21,7 +21,6 @@ export const CN_MASKS: BuiltinMask[] = [
       "sendMemory": true,
       "historyMessageCount": 4,
       "compressMessageLengthThreshold": 1000,
-      "template": "{{input}}"
     },
     "lang": "cn",
     "builtin": false,
